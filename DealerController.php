@@ -9,8 +9,8 @@ require 'PHPMailer/src/SMTP.php';
 
 class DealerController{
     
-    private $dbUsername = "root";
-    private $dbPassword = "";
+    private $dbUsername = "thumpstar_au";
+    private $dbPassword = "thumpstar_au";
     private $dbHost = "localhost";
     private $dbSchema = "thumpstar_au";
     private $dbConnect;
